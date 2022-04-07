@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lucashartmann
 - 👀 I’m interested in HTML, CSS, C++, Python, JavaScript and Java
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me lucas.a111@hotmail.com
 
 <!---
