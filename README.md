@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lucashartmann
+- 👋 Hi, I’m Lucas Augusto Hartmann
 - 👀 I’m interested in HTML, CSS, C++, Python, JavaScript and Java
 - 🌱 I’m currently learning Java
-- 📫 How to reach me lucas.a111@hotmail.com
+- I have experience with HTML, CSS, JavaScript and Java
+- 📫 How to reach me: lucas.a111@hotmail.com
 
 <!---
 lucashartmann/lucashartmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
