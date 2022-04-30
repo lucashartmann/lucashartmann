@@ -1,4 +1,4 @@
-<div align="center" style="display: flex">
+<div align="center">
   <a href="https://github.com/lucashartmann">
   <img src="example.svg" alt="css-in-readme">
     <div align="center" style="display: inline_block">
