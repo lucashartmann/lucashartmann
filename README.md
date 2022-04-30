@@ -1,7 +1,4 @@
 
-<div align="center">
-    <img src="example.svg" width="200" height="200" alt="css-in-readme">
-</div>
 
 <div align="center">
   <a href="https://github.com/lucashartmann">
