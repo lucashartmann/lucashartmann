@@ -1,5 +1,4 @@
-<div align="center">
-  <a href="https://github.com/lucashartmann">
+
   <img src="example.svg" alt="css-in-readme">
     <div align="center" style="display: inline_block">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=lucashartmann&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
