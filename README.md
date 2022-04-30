@@ -1,5 +1,5 @@
-  <div align="center">
-  
+<div align="center">
+  <img src="Untitled.jpg" width="450" height="300">
   <div align="center" style="display: inline_block">
   <a href="https://github.com/lucashartmann">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=lucashartmann&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
