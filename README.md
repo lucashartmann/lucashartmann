@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello!! I am Lucas Augusto Hartmann 😁 </h1><p>A Brazilian Front-end developer :brazil:</p><div>
+  <h1>Hello!! My name is Lucas Augusto Hartmann 😁 </h1><p>A Brazilian Front-end developer :brazil:</p><div>
   <div align="center">
   <img src="Untitled.png" width="300" height="200">
   <div></div>
