@@ -29,7 +29,15 @@
   <a href = "mailto:lucas.a11181@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-augusto-hartmann-331854234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
+ </div>
+  
+  ##
+ 
+<div>
+
   <div>
+    <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="GIF Animado" width="400" height="200">
+
   </div>
  
   
