@@ -30,7 +30,6 @@
   <a href="https://www.linkedin.com/in/lucas-augusto-hartmann-331854234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
   <div>
-    ![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
   </div>
  
   
