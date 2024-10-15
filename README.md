@@ -4,7 +4,6 @@
   <img src="Untitled.png" width="300" height="200">
   <div></div>
   <div align="center" style="display: inline_block">
-  <a href="https://github.com/lucashartmann">
     <h2>My Github status:</h2>
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=lucashartmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashartmann&layout=compact&langs_count=7&theme=dark"/>
