@@ -4,8 +4,8 @@
   <img src="Untitled.png" width="300" height="200">
   
   <h2>My Github status:</h2>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucashartmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_bold=true&text_color=FFFFFF"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashartmann&layout=compact&langs_count=100&theme=dark&text_bold=true&text_color=FFFFFF"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucashartmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_bold=true&text_color=FFFFFF"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashartmann&layout=compact&langs_count=100&theme=dark&text_bold=true&text_color=FFFFFF"/>
   
   <h2>Languages I use:</h2>
   <img align="center" alt="Lucas-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
